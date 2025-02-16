@@ -76,6 +76,7 @@
             This project was inspired by the fright of leaving your expensive personal belongings at a hackathon - or airport, or train station, or anywhere for that matter. Want to leave your bag to claim a seat but don't want it stolen? Simply place the SNS device in your backpack and wander off in peace, knowing that the moment anyone tries to move your bag, you will instantly be notified and the fright of the sound will scare the culprit off.<br><br>
             *Post-Tree Hacks 2025: Nothing on the graph? That's cause there's no hardware device actively writing to the database anymore :(
         </p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/iazdEkrBMbU?si=3wIz91NfF4d_q-X9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     <footer>
         <a href="https://me.char787.com" target="_blank" style="color: white; text-decoration: none"><p>me.char787.com</p></a>
